@@ -15,15 +15,15 @@ The task in this project is to aggregate the data found in the **Citi Bike Trip 
 
 * What are the peak hours in which bikes are used during winter months?
 
-* Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
+* What are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
 
-* Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
+* What are the top 10 stations in the city for ending a journey? (Based on data, why?)
 
-* Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
+* What are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
 
-* Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
+* What are the bottom 10 stations in the city for ending a journey (Based on data, why?)
 
-* Today, what is the gender breakdown of active participants (Male v. Female)?
+* What is the gender breakdown of active participants (Male v. Female)?
 
 * How effective has gender outreach been in increasing female ridership over the timespan?
 
@@ -37,7 +37,7 @@ The task in this project is to aggregate the data found in the **Citi Bike Trip 
  
 ## Data
 
-The data used for this project were collected from [Citi Bike Data](https://www.citibikenyc.com/system-data), January 2018 to March 2018. The data includes:
+The data used for this project were collected from [Citi Bike Data](https://www.citibikenyc.com/system-data), June 2017 to December 2017. The data includes following information:
 
 - Trip Duration (seconds)  
 - Start Time and Date  
@@ -50,3 +50,5 @@ The data used for this project were collected from [Citi Bike Data](https://www.
 - User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)  
 - Gender (Zero=unknown; 1=male; 2=female)  
 - Year of Birth  
+- Age (as of 2017)
+- Trip distance in miles
