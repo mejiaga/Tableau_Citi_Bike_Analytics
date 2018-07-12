@@ -9,6 +9,8 @@ The task in this project is to aggregate the data found in the **Citi Bike Trip 
 
 * By what percentage has total ridership grown? 
 
+![percentage](Images/overall.PNG)
+
 * How has the proportion of short-term customers and annual subscribers changed?
 
 * What are the peak hours in which bikes are used during summer months? 
@@ -28,6 +30,8 @@ The task in this project is to aggregate the data found in the **Citi Bike Trip 
 * How effective has gender outreach been in increasing female ridership over the timespan?
 
 * How does the average trip duration change by age?
+
+![Age](Images/age.PNG)
 
 * What is the average distance in miles that a bike is ridden?
 
